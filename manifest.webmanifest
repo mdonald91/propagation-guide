@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Native Plant Propagation Guide",
   "short_name": "Propagation",
-  "description": "Cuttings and seed sowing guide for WA native plants. Works offline.",
+  "description": "Cuttings, seed sowing and division guide for WA native plants. Works offline.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

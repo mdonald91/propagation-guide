@@ -1,0 +1,4 @@
+{
+  "arcgisApiKey": "",
+  "_help": "To show aerial photos on the Sites map, paste a free ArcGIS Location Platform API key between the quotes above. See HOW-TO-HOST.txt, section MAP AND AERIAL PHOTOS."
+}

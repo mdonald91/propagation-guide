@@ -1,4 +1,4 @@
 {
-  "arcgisApiKey": "",
+  "arcgisApiKey": "AAPTagLMTCfl-SPoxID-_FbWbPQ..qq4pAxd5657YYVbANYFLps7uoIp9kWq99KVbiahjeSEC2N8GgWkhHU6VVZG8-YpdSjlsRL11qIKwmuxG4TPxzB2603xFkGs8ciHTmAxXeu85pWytIPOFXaTDaJdY5YloYRr_sRD9pttob_STCEPCD4C1J69pLqeQs9D_5xCuifiTV2JqKhp40AC8GxMyxCNSAQ3Ej6SWWZs0g1MDgBSUEYwmQXLbcnduLyib8GqxhSRwYp8tLF_s2KjtAT1_gIHHDNol",
   "_help": "To show aerial photos on the Sites map, paste a free ArcGIS Location Platform API key between the quotes above. See HOW-TO-HOST.txt, section MAP AND AERIAL PHOTOS."
 }
